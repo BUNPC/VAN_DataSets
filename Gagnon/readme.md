@@ -4,7 +4,9 @@ This folder contains the microvascular angiograms that were collected around 201
 Boas and Sakadzic that were then subsequently graphed and used in VAN modeling of the fMRI BOLD signal
 and published in Gagnon2015, Gagnon2016, and Cheng2019.
 
+Each folder contains the raw angiogram of the cerebral vascular network of a mouse acquired by two photon microscopy. Details of the acquired raw angiogram are in Gagnon2015.
 
+# Citations
 
 Gagnon, L., Sakadžić, S., Lesage, F., Musacchia, J.J., Lefebvre, J., Fang, Q., Yücel, M.A., Evans, K.C., Mandeville, E.T., et al., “Quantifying the microvascular origin of BOLD-fMRI from first principles with two-photon microscopy and an oxygen-sensitive nanoprobe.,” The Journal of neuroscience : the official journal of the Society for Neuroscience 35(8), 3663–3675 (2015).
 
