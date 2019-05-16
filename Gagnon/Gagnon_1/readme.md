@@ -2,8 +2,7 @@
 
 [Angiogram_raw_635x635x604um.tif](https://drive.google.com/a/bu.edu/file/d/1vrB9ASvHCF-kcrRlnBRF0QnDi7KHqY8X/view?usp=sharing) is angiogram data acquired by two photon microscope.
 
-Pixel size??? and number of pixels in each dimension???
-
+Voxel size of the angiogram is 1.24x1.24x2um and has 512x512x303 pixels.
 
 ## Graphs
 
