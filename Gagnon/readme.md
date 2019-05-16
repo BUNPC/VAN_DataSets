@@ -20,9 +20,9 @@ All graph files are matlab files. Each matlab file contains a data structure *Gr
 
 ## Graphing Methods
 
-VIDA - [VIDA](https://neurophysics.ucsd.edu/software.php) software developed by David Klienfield Laboratory at UC San Diego. More details about the software can be obtained at [Tsai et al](http://www.jneurosci.org/content/29/46/14553.short).
+VIDA - The [VIDA](https://neurophysics.ucsd.edu/software.php) method was developed by David Klienfield's Laboratory at UC San Diego. More details about the software can be obtained in the publication [Tsai et al](http://www.jneurosci.org/content/29/46/14553.short).
 
-Walle - This software uses 3D Deep Learning for vessel segmentation and then extracts the graph from segmentation. 3D deep learning method developed by [Lei Tian](http://sites.bu.edu/tianlab/) group in collaboration with [Boas Lab](http://sites.bu.edu/boas/) at Boston University. Graph extraction from the segmentation was developed by [Frederic Lesage](http://image.liom2.polymtl.ca//en/home) group at Université de Montréal in Montreal. More details about the graph extraction software can be obatined at [Damseh, Rafat, et al](https://ieeexplore.ieee.org/abstract/document/8555544).
+Walle - This method uses 3D Deep Learning for vessel segmentation and then extracts the graph from segmentation. The 3D deep learning method is being developed by [Lei Tian's](http://sites.bu.edu/tianlab/) group in collaboration with the [Boas Lab](http://sites.bu.edu/boas/) at Boston University. Graph extraction from the segmented was developed by [Frederic Lesage's](http://image.liom2.polymtl.ca//en/home) group at Université de Montréal in Montreal. More details about the graph extraction software can be found in the publication [Damseh, Rafat, et al](https://ieeexplore.ieee.org/abstract/document/8555544).
 
 
 ## Citations
