@@ -13,5 +13,4 @@ Voxel size of the angiogram is 1.416x1.416x2um and has 512x512x306 pixels.
 [Corrected_graph.mat](https://drive.google.com/a/bu.edu/file/d/1Nd_lbTAv8bBhMJnj4OnypFXjp7k5NKbl/view?usp=sharing) contains 
 the ground truth graph.
 
-Each mat files contains a variable named Graph. 
-Graph.nodes has node information and Graph.edges has edge information.
+Each mat files contains a variable named Graph. Graph.nodes has node information, Graph.edges has edge information and Graph.diam has diameter information at each node.
